@@ -3,6 +3,10 @@ owner: Wiselink # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
+- name: FRONT(DEV)
+  url: https://www.gianlucatupapito.xyz
+  method: GET
+  maxResponseTime: 5000
 - name: API Regis - Login(DEV)
   url: https://www.gianlucatupapito.xyz/api/registration/users/ZeLytRmZ78RSgwXCEsktT1Zg63k1
   method: GET
@@ -83,6 +87,27 @@ sites:
   url: https://www.gianlucatupapito.xyz/api/employment/employees/employee/b00d8a0d-fb00-4567-a630-800cfe4be5df/company/3d63bb21-e32e-43e2-a5e3-abef3b7f4abc
   method: GET
   maxResponseTime: 5000
+- name: API DigCatlg - Get Prod(DEV)
+  url: https://www.gianlucatupapito.xyz/api/digital-catalog/product/product-ec69195c-e97b-4f07-9724-bfc0a2393a1e/company/dbc2924a-7600-4113-b39f-8d15b08517a9
+  method: GET
+  maxResponseTime: 5000
+- name: API DigCatlg - Get Serv(DEV)
+  url: https://www.gianlucatupapito.xyz/api/digital-catalog/service/service-49fc3560-ff3d-49e6-a455-71fcc673f137/company/dbc2924a-7600-4113-b39f-8d15b08517a9
+  method: GET
+  maxResponseTime: 5000
+- name: API DigCatlg - Get Line(DEV)
+  url: https://www.gianlucatupapito.xyz/api/digital-catalog/product-line/line-d71491b6-3b1a-46ba-9486-35432319b504/company/dbc2924a-7600-4113-b39f-8d15b08517a9
+  method: GET
+  maxResponseTime: 5000
+- name: API DigCatlg - Get Line Items(DEV)
+  url: https://www.gianlucatupapito.xyz/api/digital-catalog/product-line/company/dbc2924a-7600-4113-b39f-8d15b08517a9/prod-serv
+  method: GET
+  maxResponseTime: 5000
+- name: API DigCatlg - Get category tree
+  url: https://gianlucatupapito.xyz/api/digital-catalog/category/
+  method: GET
+  maxResponseTime: 5000
+
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
