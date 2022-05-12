@@ -27,6 +27,23 @@ sites:
   url: https://www.gianlucatupapito.xyz/api/registration/users/search
   method: GET
   maxResponseTime: 5000
+- name: API Comps - Get Company(DEV)
+  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/dbc2924a-7600-4113-b39f-8d15b08517a9
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - Get Comps by owner(DEV)
+  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/owner/Locpg72yDNRN4Quvx20BWs8NLSG2
+  method: GET
+  maxResponseTime: 5000
+- name: API Coms - Get comp identities(DEV)
+  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/owner/Locpg72yDNRN4Quvx20BWs8NLSG2/identities
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - Get comp status(DEV)
+  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/dbc2924a-7600-4113-b39f-8d15b08517a9/status
+  method: GET
+  maxResponseTime: 5000
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
