@@ -27,20 +27,40 @@ sites:
   url: https://www.gianlucatupapito.xyz/api/registration/users/search
   method: GET
   maxResponseTime: 5000
-- name: API Comps - Get Company(DEV)
+- name: API Comps - Comps - Get Company(DEV)
   url: https://www.gianlucatupapito.xyz/api/companies-data/companies/dbc2924a-7600-4113-b39f-8d15b08517a9
   method: GET
   maxResponseTime: 5000
-- name: API Comps - Get Comps by owner(DEV)
+- name: API Comps -Comps - Get Comps by owner(DEV)
   url: https://www.gianlucatupapito.xyz/api/companies-data/companies/owner/Locpg72yDNRN4Quvx20BWs8NLSG2
   method: GET
   maxResponseTime: 5000
-- name: API Coms - Get comp identities(DEV)
+- name: API Coms - Comps - Get comp identities(DEV)
   url: https://www.gianlucatupapito.xyz/api/companies-data/companies/owner/Locpg72yDNRN4Quvx20BWs8NLSG2/identities
   method: GET
   maxResponseTime: 5000
-- name: API Comps - Get comp status(DEV)
+- name: API Comps - Comps - Get comp status(DEV)
   url: https://www.gianlucatupapito.xyz/api/companies-data/companies/dbc2924a-7600-4113-b39f-8d15b08517a9/status
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - Out C - Get Comp(DEV)
+  url: https://www.gianlucatupapito.xyz/api/companies-data/out-companies/81aaadc9-cb56-4a2a-981a-e121d3bc18ba
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - Out C - Get Comp by owner(DEV)
+  url: https://www.gianlucatupapito.xyz/api/companies-data/out-companies/owner/Locpg72yDNRN4Quvx20BWs8NLSG2
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - Out C - Get Comp Idents(DEV)
+  url: https://www.gianlucatupapito.xyz/api/companies-data/out-companies/owner/Locpg72yDNRN4Quvx20BWs8NLSG2/identities
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - BackOff - Get on hold(DEV)
+  url: https://www.gianlucatupapito.xyz/api/companies-data/back-office/companies?state=on_hold
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - GrlData - Options(DEV)
+  url: https://www.gianlucatupapito.xyz/api/companies-data/data/options
   method: GET
   maxResponseTime: 5000
   
