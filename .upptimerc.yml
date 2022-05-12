@@ -8,19 +8,23 @@ sites:
   method: GET
   maxResponseTime: 5000
 - name: API: Regis - User Data(DEV)
-  url: https://gianlucatupapito.xyz/api/registration/users/ZeLytRmZ78RSgwXCEsktT1Zg63k1/data
+  url: https://www.gianlucatupapito.xyz/api/registration/users/ZeLytRmZ78RSgwXCEsktT1Zg63k1/data
   method: GET
   maxResponseTime: 5000
 - name: API: Regis - Identities(DEV)
-  url: https://gianlucatupapito.xyz/api/registration/users/ZeLytRmZ78RSgwXCEsktT1Zg63k1/identities
+  url: https://www.gianlucatupapito.xyz/api/registration/users/ZeLytRmZ78RSgwXCEsktT1Zg63k1/identities
   method: GET
   maxResponseTime: 5000
 - name: API: Regis - Search Catgs(DEV)
-  url: https://gianlucatupapito.xyz/api/registration/data/search-catg
+  url: https://www.gianlucatupapito.xyz/api/registration/data/search-catg
   method: GET
   maxResponseTime: 5000
 - name: API: Regis - Get Options(DEV)
-  url: https://gianlucatupapito.xyz/api/registration/data/options
+  url: https://www.gianlucatupapito.xyz/api/registration/data/options
+  method: GET
+  maxResponseTime: 5000
+- name: API: Regis - Search User by name/lastname(DEV)
+  url: https://www.gianlucatupapito.xyz/api/registration/users/search
   method: GET
   maxResponseTime: 5000
 status-website:
