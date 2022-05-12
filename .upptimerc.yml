@@ -63,6 +63,26 @@ sites:
   url: https://www.gianlucatupapito.xyz/api/companies-data/data/options
   method: GET
   maxResponseTime: 5000
+- name: API Emps - Get company emps(DEV)
+  url: https://www.gianlucatupapito.xyz/api/employment/employees/company/dbc2924a-7600-4113-b39f-8d15b08517a9
+  method: GET
+  maxResponseTime: 5000
+- name: API Emps - Get Empl user/comp tokens(DEV)
+  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/Locpg72yDNRN4Quvx20BWs8NLSG2/company/dbc2924a-7600-4113-b39f-8d15b08517a9
+  method: GET
+  maxResponseTime: 5000
+- name: API Emps - Get Empl user token(DEV)
+  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/Locpg72yDNRN4Quvx20BWs8NLSG2
+  method: GET
+  maxResponseTime: 5000
+- name: API Emps - Get Empl job ofers(DEV)
+  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/iniPyd97csZe6MPE1SUeipfVPOs1/offer
+  method: GET
+  maxResponseTime: 5000
+- name: API Emps - Get Empl by token
+  url: https://www.gianlucatupapito.xyz/api/employment/employees/employee/b00d8a0d-fb00-4567-a630-800cfe4be5df/company/3d63bb21-e32e-43e2-a5e3-abef3b7f4abc
+  method: GET
+  maxResponseTime: 5000
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
