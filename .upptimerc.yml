@@ -3,27 +3,27 @@ owner: Wiselink # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-- name: API Regis | Login(DEV)
+- name: API Regis - Login(DEV)
   url: https://www.gianlucatupapito.xyz/api/registration/users/ZeLytRmZ78RSgwXCEsktT1Zg63k1
   method: GET
   maxResponseTime: 5000
-- name: API Regis | User Data(DEV)
+- name: API Regis - User Data(DEV)
   url: https://www.gianlucatupapito.xyz/api/registration/users/ZeLytRmZ78RSgwXCEsktT1Zg63k1/data
   method: GET
   maxResponseTime: 5000
-- name: API Regis | Identities(DEV)
+- name: API Regis - Identities(DEV)
   url: https://www.gianlucatupapito.xyz/api/registration/users/ZeLytRmZ78RSgwXCEsktT1Zg63k1/identities
   method: GET
   maxResponseTime: 5000
-- name: API Regis | Search Catgs(DEV)
+- name: API Regis - Search Catgs(DEV)
   url: https://www.gianlucatupapito.xyz/api/registration/data/search-catg
   method: GET
   maxResponseTime: 5000
-- name: API Regis | Get Options(DEV)
+- name: API Regis - Get Options(DEV)
   url: https://www.gianlucatupapito.xyz/api/registration/data/options
   method: GET
   maxResponseTime: 5000
-- name: API Regis | Search User by name/lastname(DEV)
+- name: API Regis - Search User by name/lastname(DEV)
   url: https://www.gianlucatupapito.xyz/api/registration/users/search
   method: GET
   maxResponseTime: 5000
