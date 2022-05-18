@@ -80,7 +80,7 @@ sites:
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get Empl job ofers(DEV)
-  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/iniPyd97csZe6MPE1SUeipfVPOs1/offer
+  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/Locpg72yDNRN4Quvx20BWs8NLSG2/offer
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get Empl by token
