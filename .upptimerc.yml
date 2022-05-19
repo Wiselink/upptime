@@ -72,7 +72,7 @@ sites:
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get Empl user/comp tokens(DEV)
-  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/Locpg72yDNRN4Quvx20BWs8NLSG2/company/dbc2924a-7600-4113-b39f-8d15b08517a9
+  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/Locpg72yDNRN4Quvx20BWs8NLSG2/company/3d63bb21-e32e-43e2-a5e3-abef3b7f4abc
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get Empl user token(DEV)
