@@ -8,15 +8,15 @@ sites:
   method: GET
   maxResponseTime: 5000
 - name: API Regis - Login(DEV)
-  url: https://www.gianlucatupapito.xyz/api/registration/users/ZeLytRmZ78RSgwXCEsktT1Zg63k1
+  url: https://www.gianlucatupapito.xyz/api/registration/users/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
   method: GET
   maxResponseTime: 5000
 - name: API Regis - User Data(DEV)
-  url: https://www.gianlucatupapito.xyz/api/registration/users/ZeLytRmZ78RSgwXCEsktT1Zg63k1/data
+  url: https://www.gianlucatupapito.xyz/api/registration/users/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/data
   method: GET
   maxResponseTime: 5000
 - name: API Regis - Identities(DEV)
-  url: https://www.gianlucatupapito.xyz/api/registration/users/ZeLytRmZ78RSgwXCEsktT1Zg63k1/identities
+  url: https://www.gianlucatupapito.xyz/api/registration/users/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/identities
   method: GET
   maxResponseTime: 5000
 - name: API Regis - Search Catgs(DEV)
