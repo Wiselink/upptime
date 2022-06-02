@@ -88,7 +88,7 @@ sites:
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get Prod(DEV)
-  url: https://www.gianlucatupapito.xyz/api/digital-catalog/product/product-ec69195c-e97b-4f07-9724-bfc0a2393a1e/company/dbc2924a-7600-4113-b39f-8d15b08517a9
+  url: https://www.gianlucatupapito.xyz/api/digital-catalog/product/product-2ccd5004-c767-4430-9528-c1cc1e11ae51/company/a22f2eb4-fdc8-4416-97dc-4ee2de942e6a
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get Serv(DEV)
