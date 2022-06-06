@@ -92,7 +92,7 @@ sites:
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get Serv(DEV)
-  url: https://www.gianlucatupapito.xyz/api/digital-catalog/service/service-49fc3560-ff3d-49e6-a455-71fcc673f137/company/dbc2924a-7600-4113-b39f-8d15b08517a9
+  url: https://www.gianlucatupapito.xyz/api/digital-catalog/service/service-07a4674a-61ae-4d6f-ab33-b796e18a3275/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get Line(DEV)
