@@ -36,7 +36,7 @@ sites:
   method: GET
   maxResponseTime: 5000
 - name: API Comps -Comps - Get Comps by owner(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/owner/Locpg72yDNRN4Quvx20BWs8NLSG2
+  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
   method: GET
   maxResponseTime: 5000
 - name: API Coms - Comps - Get comp identities(DEV)
@@ -44,19 +44,19 @@ sites:
   method: GET
   maxResponseTime: 5000
 - name: API Comps - Comps - Get comp status(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/dbc2924a-7600-4113-b39f-8d15b08517a9/status
+  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/a424beb7-cb70-439a-b9e5-1d8520ef8ae4/status
   method: GET
   maxResponseTime: 5000
 - name: API Comps - Out C - Get Comp(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/out-companies/81aaadc9-cb56-4a2a-981a-e121d3bc18ba
+  url: https://www.gianlucatupapito.xyz/api/companies-data/out-companies/a5e613d9-7f27-42a1-8cd2-08507fdbafaf
   method: GET
   maxResponseTime: 5000
 - name: API Comps - Out C - Get Comp by owner(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/out-companies/owner/Locpg72yDNRN4Quvx20BWs8NLSG2
+  url: https://www.gianlucatupapito.xyz/api/companies-data/out-companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
   method: GET
   maxResponseTime: 5000
 - name: API Comps - Out C - Get Comp Idents(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/out-companies/owner/Locpg72yDNRN4Quvx20BWs8NLSG2/identities
+  url: https://www.gianlucatupapito.xyz/api/companies-data/out-companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/identities
   method: GET
   maxResponseTime: 5000
 - name: API Comps - BackOff - Get on hold(DEV)
@@ -68,23 +68,23 @@ sites:
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get company emps(DEV)
-  url: https://www.gianlucatupapito.xyz/api/employment/employees/company/dbc2924a-7600-4113-b39f-8d15b08517a9
+  url: https://www.gianlucatupapito.xyz/api/employment/employees/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get Empl user/comp tokens(DEV)
-  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/Locpg72yDNRN4Quvx20BWs8NLSG2/company/3d63bb21-e32e-43e2-a5e3-abef3b7f4abc
+  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get Empl user token(DEV)
-  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/Locpg72yDNRN4Quvx20BWs8NLSG2
+  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get Empl job ofers(DEV)
-  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/Locpg72yDNRN4Quvx20BWs8NLSG2/offer
+  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/offer
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get Empl by token
-  url: https://www.gianlucatupapito.xyz/api/employment/employees/employee/b00d8a0d-fb00-4567-a630-800cfe4be5df/company/3d63bb21-e32e-43e2-a5e3-abef3b7f4abc
+  url: https://www.gianlucatupapito.xyz/api/employment/employees/employee/782bb3c5-46bc-4431-ba9a-7d3a23c92d1f/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get Prod(DEV)
