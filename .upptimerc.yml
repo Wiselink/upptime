@@ -32,7 +32,7 @@ sites:
   method: GET
   maxResponseTime: 5000
 - name: API Comps - Comps - Get Company(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/dbc2924a-7600-4113-b39f-8d15b08517a9
+  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
   method: GET
   maxResponseTime: 5000
 - name: API Comps -Comps - Get Comps by owner(DEV)
@@ -40,7 +40,7 @@ sites:
   method: GET
   maxResponseTime: 5000
 - name: API Coms - Comps - Get comp identities(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/owner/Locpg72yDNRN4Quvx20BWs8NLSG2/identities
+  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/identities
   method: GET
   maxResponseTime: 5000
 - name: API Comps - Comps - Get comp status(DEV)
