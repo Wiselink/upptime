@@ -47,7 +47,7 @@
     "slug": "api-regis-user-data-dev",
     "status": "down",
     "uptime": "85.37%",
-    "uptimeDay": "4.94%",
+    "uptimeDay": "4.96%",
     "uptimeWeek": "62.38%",
     "uptimeMonth": "85.37%",
     "uptimeYear": "85.37%",
@@ -73,7 +73,7 @@
     "slug": "api-regis-identities-dev",
     "status": "down",
     "uptime": "85.61%",
-    "uptimeDay": "4.24%",
+    "uptimeDay": "4.26%",
     "uptimeWeek": "62.31%",
     "uptimeMonth": "85.61%",
     "uptimeYear": "85.61%",
@@ -161,7 +161,7 @@
     "slug": "api-comps-comps-get-company-dev",
     "status": "down",
     "uptime": "85.54%",
-    "uptimeDay": "4.45%",
+    "uptimeDay": "4.47%",
     "uptimeWeek": "62.15%",
     "uptimeMonth": "85.54%",
     "uptimeYear": "85.54%",
@@ -187,7 +187,7 @@
     "slug": "api-comps-comps-get-comps-by-owner-dev",
     "status": "down",
     "uptime": "85.69%",
-    "uptimeDay": "5.56%",
+    "uptimeDay": "5.58%",
     "uptimeWeek": "62.68%",
     "uptimeMonth": "85.69%",
     "uptimeYear": "85.69%",
@@ -212,7 +212,7 @@
     "slug": "api-coms-comps-get-comp-identities-dev",
     "status": "down",
     "uptime": "85.63%",
-    "uptimeDay": "4.89%",
+    "uptimeDay": "4.91%",
     "uptimeWeek": "62.48%",
     "uptimeMonth": "85.63%",
     "uptimeYear": "85.63%",
@@ -289,7 +289,7 @@
     "slug": "api-comps-out-c-get-comp-by-owner-dev",
     "status": "down",
     "uptime": "85.63%",
-    "uptimeDay": "4.23%",
+    "uptimeDay": "4.25%",
     "uptimeWeek": "62.46%",
     "uptimeMonth": "85.63%",
     "uptimeYear": "85.63%",
@@ -324,7 +324,7 @@
     "timeMonth": 52,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2022-06-06": 867,
+      "2022-06-06": 868,
       "2022-06-05": 1440,
       "2022-06-04": 1416,
       "2022-06-03": 83,
@@ -340,7 +340,7 @@
     "status": "down",
     "uptime": "85.58%",
     "uptimeDay": "2.59%",
-    "uptimeWeek": "62.29%",
+    "uptimeWeek": "62.28%",
     "uptimeMonth": "85.58%",
     "uptimeYear": "85.58%",
     "time": 52,
@@ -374,7 +374,7 @@
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2022-06-06": 864,
+      "2022-06-06": 865,
       "2022-06-05": 1440,
       "2022-06-04": 1413,
       "2022-06-03": 80,
@@ -440,8 +440,8 @@
     "slug": "api-emps-get-empl-user-token-dev",
     "status": "down",
     "uptime": "95.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "95.92%",
     "uptimeYear": "95.92%",
     "time": 71,
@@ -450,7 +450,7 @@
     "timeMonth": 71,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2022-06-06": 0,
+      "2022-06-06": 1,
       "2022-05-18": 94,
       "2022-05-13": 1038,
       "2022-05-12": 327
@@ -463,8 +463,8 @@
     "slug": "api-emps-get-empl-job-ofers-dev",
     "status": "down",
     "uptime": "96.09%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.09%",
     "uptimeYear": "96.09%",
     "time": 61,
@@ -473,7 +473,7 @@
     "timeMonth": 61,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2022-06-06": 0,
+      "2022-06-06": 1,
       "2022-05-18": 32,
       "2022-05-13": 1038,
       "2022-05-12": 327
@@ -519,8 +519,8 @@
     "slug": "api-dig-catlg-get-prod-dev",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 58,
@@ -529,7 +529,7 @@
     "timeMonth": 58,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2022-06-06": 0,
+      "2022-06-06": 1,
       "2022-05-19": 89
     }
   },
@@ -565,8 +565,8 @@
     "slug": "api-dig-catlg-get-line-dev",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
     "time": 75,
@@ -575,7 +575,7 @@
     "timeMonth": 75,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2022-06-06": 0,
+      "2022-06-06": 1,
       "2022-05-19": 86
     }
   },
@@ -586,7 +586,7 @@
     "slug": "api-dig-catlg-get-line-items-dev",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.92%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
@@ -596,7 +596,7 @@
     "timeMonth": 81,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2022-06-06": 0,
+      "2022-06-06": 2,
       "2022-05-19": 84
     }
   },
@@ -607,8 +607,8 @@
     "slug": "api-dig-catlg-get-category-tree",
     "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
     "time": 485,
@@ -617,7 +617,7 @@
     "timeMonth": 485,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2022-06-06": 0,
+      "2022-06-06": 1,
       "2022-05-19": 83
     }
   }
