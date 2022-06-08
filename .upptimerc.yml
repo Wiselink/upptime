@@ -107,7 +107,7 @@ sites:
   url: https://gianlucatupapito.xyz/api/digital-catalog/category/
   method: GET
   maxResponseTime: 5000
-  - name: FRONT(PROD)
+- name: FRONT(PROD)
   url: https://www.wiselink.app
   method: GET
   maxResponseTime: 5000
