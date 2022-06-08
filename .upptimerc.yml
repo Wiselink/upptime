@@ -92,7 +92,7 @@ sites:
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get Serv(DEV)
-  url: https://www.gianlucatupapito.xyz/api/digital-catalog/service/service-07a4674a-61ae-4d6f-ab33-b796e18a3275/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
+  url: https://www.gianlucatupapito.xyz/api/digital-catalog/service/service-a6b7760b-be84-4e78-92f8-92535b132dd4/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get Line(DEV)
@@ -196,7 +196,7 @@ sites:
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get Serv(PROD)
-  url: https://www.wiselink.app/api/digital-catalog/service/service-07a4674a-61ae-4d6f-ab33-b796e18a3275/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
+  url: https://www.wiselink.app/api/digital-catalog/service/service-a6b7760b-be84-4e78-92f8-92535b132dd4/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get Line(PROD)
