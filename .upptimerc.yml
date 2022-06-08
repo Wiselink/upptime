@@ -103,8 +103,112 @@ sites:
   url: https://www.gianlucatupapito.xyz/api/digital-catalog/product-line/company/dbc2924a-7600-4113-b39f-8d15b08517a9/prod-serv
   method: GET
   maxResponseTime: 5000
-- name: API DigCatlg - Get category tree
+- name: API DigCatlg - Get category tree(DEV)
   url: https://gianlucatupapito.xyz/api/digital-catalog/category/
+  method: GET
+  maxResponseTime: 5000
+  - name: FRONT(PROD)
+  url: https://www.wiselink.app
+  method: GET
+  maxResponseTime: 5000
+- name: API Regis - Login(PROD)
+  url: https://www.wiselink.app/api/registration/users/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
+  method: GET
+  maxResponseTime: 5000
+- name: API Regis - User Data(PROD)
+  url: https://www.wiselink.app/api/registration/users/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/data
+  method: GET
+  maxResponseTime: 5000
+- name: API Regis - Identities(PROD)
+  url: https://www.wiselink.app/api/registration/users/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/identities
+  method: GET
+  maxResponseTime: 5000
+- name: API Regis - Search Catgs(PROD)
+  url: https://www.wiselink.app/api/registration/data/search-catg
+  method: GET
+  maxResponseTime: 5000
+- name: API Regis - Get Options(PROD)
+  url: https://www.wiselink.app/api/registration/data/options
+  method: GET
+  maxResponseTime: 5000
+- name: API Regis - Search User by name/lastname(PROD)
+  url: https://www.wiselink.app/api/registration/users/search
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - Comps - Get Company(PROD)
+  url: https://www.wiselink.app/api/companies-data/companies/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps -Comps - Get Comps by owner(PROD)
+  url: https://www.wiselink.app/api/companies-data/companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
+  method: GET
+  maxResponseTime: 5000
+- name: API Coms - Comps - Get comp identities(PROD)
+  url: https://www.wiselink.app/api/companies-data/companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/identities
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - Comps - Get comp status(PROD)
+  url: https://www.wiselink.app/api/companies-data/companies/a424beb7-cb70-439a-b9e5-1d8520ef8ae4/status
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - Out C - Get Comp(PROD)
+  url: https://www.wiselink.app/api/companies-data/out-companies/a5e613d9-7f27-42a1-8cd2-08507fdbafaf
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - Out C - Get Comp by owner(PROD)
+  url: https://www.wiselink.app/api/companies-data/out-companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - Out C - Get Comp Idents(PROD)
+  url: https://www.wiselink.app/api/companies-data/out-companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/identities
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - BackOff - Get on hold(PROD)
+  url: https://www.wiselink.app/api/companies-data/back-office/companies?state=on_hold
+  method: GET
+  maxResponseTime: 5000
+- name: API Comps - GrlData - Options(PROD)
+  url: https://www.wiselink.app/api/companies-data/data/options
+  method: GET
+  maxResponseTime: 5000
+- name: API Emps - Get company emps(PROD)
+  url: https://www.wiselink.app/api/employment/employees/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
+  method: GET
+  maxResponseTime: 5000
+- name: API Emps - Get Empl user/comp tokens(PROD)
+  url: https://www.wiselink.app/api/employment/employees/user/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
+  method: GET
+  maxResponseTime: 5000
+- name: API Emps - Get Empl user token(PROD)
+  url: https://www.wiselink.app/api/employment/employees/user/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
+  method: GET
+  maxResponseTime: 5000
+- name: API Emps - Get Empl job ofers(PROD)
+  url: https://www.wiselink.app/api/employment/employees/user/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/offer
+  method: GET
+  maxResponseTime: 5000
+- name: API Emps - Get Empl by token
+  url: https://www.wiselink.app/api/employment/employees/employee/782bb3c5-46bc-4431-ba9a-7d3a23c92d1f/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
+  method: GET
+  maxResponseTime: 5000
+- name: API DigCatlg - Get Prod(PROD)
+  url: https://www.wiselink.app/api/digital-catalog/product/product-2ccd5004-c767-4430-9528-c1cc1e11ae51/company/a22f2eb4-fdc8-4416-97dc-4ee2de942e6a
+  method: GET
+  maxResponseTime: 5000
+- name: API DigCatlg - Get Serv(PROD)
+  url: https://www.wiselink.app/api/digital-catalog/service/service-07a4674a-61ae-4d6f-ab33-b796e18a3275/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
+  method: GET
+  maxResponseTime: 5000
+- name: API DigCatlg - Get Line(PROD)
+  url: https://www.wiselink.app/api/digital-catalog/product-line/line-d71491b6-3b1a-46ba-9486-35432319b504/company/dbc2924a-7600-4113-b39f-8d15b08517a9
+  method: GET
+  maxResponseTime: 5000
+- name: API DigCatlg - Get Line Items(PROD)
+  url: https://www.wiselink.app/api/digital-catalog/product-line/company/dbc2924a-7600-4113-b39f-8d15b08517a9/prod-serv
+  method: GET
+  maxResponseTime: 5000
+- name: API DigCatlg - Get category tree(PROD)
+  url: https://wiselink.app/api/digital-catalog/category/
   method: GET
   maxResponseTime: 5000
 
