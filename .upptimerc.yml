@@ -4,103 +4,103 @@ repo: upptime # The name of this repository
 
 sites:
 - name: FRONT(DEV)
-  url: https://www.gianlucatupapito.xyz
+  url: https://dev.wiselink.app
   method: GET
   maxResponseTime: 5000
 - name: API Regis - Login(DEV)
-  url: https://www.gianlucatupapito.xyz/api/registration/users/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
+  url: https://dev.wiselink.app/api/registration/users/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
   method: GET
   maxResponseTime: 5000
 - name: API Regis - User Data(DEV)
-  url: https://www.gianlucatupapito.xyz/api/registration/users/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/data
+  url: https://dev.wiselink.app/api/registration/users/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/data
   method: GET
   maxResponseTime: 5000
 - name: API Regis - Identities(DEV)
-  url: https://www.gianlucatupapito.xyz/api/registration/users/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/identities
+  url: https://dev.wiselink.app/api/registration/users/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/identities
   method: GET
   maxResponseTime: 5000
 - name: API Regis - Search Catgs(DEV)
-  url: https://www.gianlucatupapito.xyz/api/registration/data/search-catg
+  url: https://dev.wiselink.app/api/registration/data/search-catg
   method: GET
-  maxResponseTime: 5000
+  maxResponseTime: 5000F
 - name: API Regis - Get Options(DEV)
-  url: https://www.gianlucatupapito.xyz/api/registration/data/options
+  url: https://dev.wiselink.app/api/registration/data/options
   method: GET
   maxResponseTime: 5000
 - name: API Regis - Search User by name/lastname(DEV)
-  url: https://www.gianlucatupapito.xyz/api/registration/users/search
+  url: https://dev.wiselink.app/api/registration/users/search
   method: GET
   maxResponseTime: 5000
 - name: API Comps - Comps - Get Company(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
+  url: https://dev.wiselink.app/api/companies-data/companies/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
   method: GET
   maxResponseTime: 5000
 - name: API Comps -Comps - Get Comps by owner(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
+  url: https://dev.wiselink.app/api/companies-data/companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
   method: GET
   maxResponseTime: 5000
 - name: API Coms - Comps - Get comp identities(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/identities
+  url: https://dev.wiselink.app/api/companies-data/companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/identities
   method: GET
   maxResponseTime: 5000
 - name: API Comps - Comps - Get comp status(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/companies/a424beb7-cb70-439a-b9e5-1d8520ef8ae4/status
+  url: https://dev.wiselink.app/api/companies-data/companies/a424beb7-cb70-439a-b9e5-1d8520ef8ae4/status
   method: GET
   maxResponseTime: 5000
 - name: API Comps - Out C - Get Comp(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/out-companies/a5e613d9-7f27-42a1-8cd2-08507fdbafaf
+  url: https://dev.wiselink.app/api/companies-data/out-companies/a5e613d9-7f27-42a1-8cd2-08507fdbafaf
   method: GET
   maxResponseTime: 5000
 - name: API Comps - Out C - Get Comp by owner(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/out-companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
+  url: https://dev.wiselink.app/api/companies-data/out-companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
   method: GET
   maxResponseTime: 5000
 - name: API Comps - Out C - Get Comp Idents(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/out-companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/identities
+  url: https://dev.wiselink.app/api/companies-data/out-companies/owner/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/identities
   method: GET
   maxResponseTime: 5000
 - name: API Comps - BackOff - Get on hold(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/back-office/companies?state=on_hold
+  url: https://dev.wiselink.app/api/companies-data/back-office/companies?state=on_hold
   method: GET
   maxResponseTime: 5000
 - name: API Comps - GrlData - Options(DEV)
-  url: https://www.gianlucatupapito.xyz/api/companies-data/data/options
+  url: https://dev.wiselink.app/api/companies-data/data/options
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get company emps(DEV)
-  url: https://www.gianlucatupapito.xyz/api/employment/employees/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
+  url: https://dev.wiselink.app/api/employment/employees/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get Empl user/comp tokens(DEV)
-  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
+  url: https://dev.wiselink.app/api/employment/employees/user/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get Empl user token(DEV)
-  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
+  url: https://dev.wiselink.app/api/employment/employees/user/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get Empl job ofers(DEV)
-  url: https://www.gianlucatupapito.xyz/api/employment/employees/user/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/offer
+  url: https://dev.wiselink.app/api/employment/employees/user/tQvx3WPi4ae5yhA0ZUtqcg6Hzwu1/offer
   method: GET
   maxResponseTime: 5000
 - name: API Emps - Get Empl by token
-  url: https://www.gianlucatupapito.xyz/api/employment/employees/employee/782bb3c5-46bc-4431-ba9a-7d3a23c92d1f/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
+  url: https://dev.wiselink.app/api/employment/employees/employee/782bb3c5-46bc-4431-ba9a-7d3a23c92d1f/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get Prod(DEV)
-  url: https://www.gianlucatupapito.xyz/api/digital-catalog/product/product-2ccd5004-c767-4430-9528-c1cc1e11ae51/company/a22f2eb4-fdc8-4416-97dc-4ee2de942e6a
+  url: https://dev.wiselink.app/api/digital-catalog/product/product-2ccd5004-c767-4430-9528-c1cc1e11ae51/company/a22f2eb4-fdc8-4416-97dc-4ee2de942e6a
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get Serv(DEV)
-  url: https://www.gianlucatupapito.xyz/api/digital-catalog/service/service-a6b7760b-be84-4e78-92f8-92535b132dd4/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
+  url: https://dev.wiselink.app/api/digital-catalog/service/service-a6b7760b-be84-4e78-92f8-92535b132dd4/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get Line(DEV)
-  url: https://www.gianlucatupapito.xyz/api/digital-catalog/product-line/line-d71491b6-3b1a-46ba-9486-35432319b504/company/dbc2924a-7600-4113-b39f-8d15b08517a9
+  url: https://dev.wiselink.app/api/digital-catalog/product-line/line-d71491b6-3b1a-46ba-9486-35432319b504/company/dbc2924a-7600-4113-b39f-8d15b08517a9
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get Line Items(DEV)
-  url: https://www.gianlucatupapito.xyz/api/digital-catalog/product-line/company/dbc2924a-7600-4113-b39f-8d15b08517a9/prod-serv
+  url: https://dev.wiselink.app/api/digital-catalog/product-line/company/dbc2924a-7600-4113-b39f-8d15b08517a9/prod-serv
   method: GET
   maxResponseTime: 5000
 - name: API DigCatlg - Get category tree(DEV)
