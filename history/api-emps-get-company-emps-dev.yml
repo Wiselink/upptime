@@ -1,7 +1,7 @@
 url: https://dev.wiselink.app/api/employment/employees/company/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
-status: up
-code: 200
-responseTime: 208
-lastUpdated: 2022-07-13T23:02:37.976Z
+status: down
+code: 502
+responseTime: 17
+lastUpdated: 2022-07-14T17:10:23.404Z
 startTime: Thu May 12 2022 18:30:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
