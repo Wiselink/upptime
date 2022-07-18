@@ -1,7 +1,7 @@
 url: https://dev.wiselink.app/api/companies-data/companies/a424beb7-cb70-439a-b9e5-1d8520ef8ae4
-status: down
-code: 502
-responseTime: 61
-lastUpdated: 2022-07-18T14:07:20.314Z
+status: up
+code: 200
+responseTime: 175
+lastUpdated: 2022-07-18T14:28:24.401Z
 startTime: Thu May 12 2022 18:00:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
